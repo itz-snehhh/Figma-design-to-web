@@ -1,4 +1,13 @@
 /* CSS Variables with fallbacks for older browsers */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;   /* removes the bottom scrollbar */
+}
+
 :root {
     --color-primary: #FFB400;
     --color-black: #2B2B2B;
