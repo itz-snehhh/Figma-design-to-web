@@ -454,3 +454,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+// Initialize carousel
+
+/* -------------------------------------------------
+   Review Data + Auto-Generated Slides (loop system)
+---------------------------------------------------*/
